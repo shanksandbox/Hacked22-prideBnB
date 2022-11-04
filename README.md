@@ -1,6 +1,6 @@
 # prideBnB
 An app to assist people of LGBTQ+ communities to find hotels, places and destinations with good hospitability.
-![](./Image-Asset/gif1.gif)
+![](./Image-Assets/gif1.gif)
 
 ### How to use prideBnB
 
