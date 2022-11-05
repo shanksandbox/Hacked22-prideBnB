@@ -18,10 +18,6 @@ An app to assist people of LGBTQ+ communities to find hotels, places and destina
 <img src="./images/1.jpg" alt="1" width="300" height="600" /> <img src="./images/2.png" alt="1" width="300" height="600" /> <img src="./images/3.png" alt="1" width="300" height="600" /> <img src="./images/11.jpg" alt="1" width="300" height="600" /> <img src="./images/4.png" alt="1" width="300" height="600" /> <img src="./images/5.png" alt="1"
 	 width="300" height="600" /> <img src="./images/6.png" alt="1"
 	 width="300" height="600" /> <img src="./images/7.png" alt="1"
-	 width="300" height="600" /> <img src="./images/8.png" alt="1"
-	 width="300" height="600" /><img src="./images/9.png" alt="1"
-	 width="300" height="600" /> <img src="./images/10.jpg" alt="1"
-	 width="300" height="600" /> <img src="./images/12.jpg" alt="1"
 	 width="300" height="600" />
 
 </pre>
