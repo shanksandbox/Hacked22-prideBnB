@@ -1,7 +1,7 @@
 ![](./Image-Assets/img1.gif)
 # prideBnB🌈
 # [Download App](https://drive.google.com/file/d/11wZ_09a3Q_Dx0UdZoB4NDb7GwuoueZkc/view?usp=share_link)   
-An app to assist people of LGBTQ+ communities to find hotels, places and destinations with good hospitability.
+An app to assist people of LGBTQ+ communities to find hotels, places and destinations with good hospitality.
 
 ### Feature of prideBnB
 - create User Profile, select "I identify as" option and explore.
