@@ -22,12 +22,6 @@ An app to assist people of LGBTQ+ communities to find hotels, places and destina
 
 </pre>
 
-## Architecture
-
-![HLA](./images/imgHLA.jpg)
-
-![LLA](./images/imgLLA.jpg)
-
 ## Problem it Solves
 
 - It gives curated list of destinations based on rating where LGBTQ+ communites are welcomed.
