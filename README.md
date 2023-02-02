@@ -44,9 +44,9 @@ An app to assist people of LGBTQ+ communities to find hotels, places and destina
 - Support for connecting chain on institutions.
 
 ### Contributors
+- Shubhi Singh
 - Shashank Kumar
 - Aman Gupta
 - Richa Agrawal
-- Shubhi Singh
 
 Built with ❤️ by Team C.O.D.E
